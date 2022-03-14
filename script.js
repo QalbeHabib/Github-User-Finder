@@ -85,7 +85,7 @@ function displayUserCard(user) {
 
                     <ul>
                         <li>${user.followers} <strong>Followers</strong></li>
-                        <li>${user.following} <strong>Followers</strong></li>
+                        <li>${user.following} <strong>Following</strong></li>
                         <li>${user.public_repos} <strong>Repository</strong></li>
                     </ul>
 
